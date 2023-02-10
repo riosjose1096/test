@@ -1,16 +1,9 @@
 {  
-   "kids":[  
-      "x3_uNeUf1hWnuRr8sQkcXg" // video kid
-   ],
-   "type":"temporary"
-}
-// response
-{  
    "keys":[  
       {  
          "kty":"oct",
-         "k":"7s2ytUnwKnyXzlDBf0lMoA",
-         "kid":"x3_uNeUf1hWnuRr8sQkcXg"
+         "k":"235898cdb10b0cdba35ea2ce94fbb1fb",
+         "kid":"ab020a1710d630168de21698375a439c"
       }
    ],
    "type":"temporary"
