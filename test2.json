@@ -1,0 +1,10 @@
+{
+    "name": "My video 1",
+    "url": "https://1063-vos.dtvott.com/DASH/manifest.mpd",
+    "keys": [
+        {
+            "keyId": "ab020a1710d630168de21698375a439c",
+            "key": "235898cdb10b0cdba35ea2ce94fbb1fb"
+        } 
+    ]
+}
