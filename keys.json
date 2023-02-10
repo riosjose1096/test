@@ -1,0 +1,17 @@
+{  
+   "kids":[  
+      "x3_uNeUf1hWnuRr8sQkcXg" // video kid
+   ],
+   "type":"temporary"
+}
+// response
+{  
+   "keys":[  
+      {  
+         "kty":"oct",
+         "k":"7s2ytUnwKnyXzlDBf0lMoA",
+         "kid":"x3_uNeUf1hWnuRr8sQkcXg"
+      }
+   ],
+   "type":"temporary"
+}
