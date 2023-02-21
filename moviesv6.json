@@ -1,0 +1,267 @@
+{
+    "data": [
+        {
+            "title": "Viendo ahora",
+            "type": "movies",
+            "layout": 2,
+            "subtitle": "Peliculas en cartelera ahora",
+            "result": [
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                }
+            ]
+        },
+        {
+            "title": "En el aire",
+            "type": "movies",
+            "layout": 1,
+            "subtitle": "Nuevos episodios emitidos recienmente",
+            "result": [
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                }
+            ]
+        },
+        {
+            "title": "Proximos",
+            "type": "movies",
+            "layout": 1,
+            "subtitle": "Proximas peliculas en cartelera",
+            "result": [
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                }
+            ]
+        },
+        {
+            "title": "Peliculas populares",
+            "type": "movies",
+            "layout": 1,
+            "subtitle": "Peliculas populares en streaming",
+            "result": [
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                }
+            ]
+        },
+        {
+            "title": "Peliculas mejor valoradas",
+            "type": "movies",
+            "layout": 3,
+            "result": [
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                },
+                {
+                    "id": 1,
+                    "original_language": "es",
+                    "original_title": "Ant-Man and the Wasp: Quantumania",
+                    "poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+                    "release_date": "2023-02-10",
+                    "title": "Ant-Man and the Wasp: Quantumania"
+                }
+            ]
+        }
+    ]
+}
